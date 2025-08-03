@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 72 72"
+     width="72"
+     height="72"
+     fill="#ca9aff"
+     stroke="#ffffff"
+     stroke-width="3"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+  <!-- Outer crown -->
+  <path d="
+    M36 5
+    L44 20
+    L52 12
+    L55 25
+    L63 18
+    L60 35
+    L68 40
+    L60 45
+    L63 62
+    L36 55
+    L9 62
+    L12 45
+    L4 40
+    L12 35
+    L9 18
+    L17 25
+    L20 12
+    L28 20
+    Z"/>
+
+  <!-- Center diamond -->
+  <path d="M36 28 L41 36 L36 44 L31 36 Z"/>
+</svg>
